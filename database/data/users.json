@@ -1,0 +1,464 @@
+{
+  "entities": [
+    {
+      "id": "75002e05-9781-4e1d-9bb1-a478cde32e62",
+      "name": "ABEGAIL CADIL",
+      "division": {
+        "id": "ef97cb31-8869-4f45-88af-2cc5b3a384b3",
+        "name": "HGS | Insurance",
+        "selfUri": "/api/v2/authorization/divisions/ef97cb31-8869-4f45-88af-2cc5b3a384b3"
+      },
+      "chat": {
+        "jabberId": "653fc6bfb175301ae8e0193d@humana2.orgspan.com"
+      },
+      "department": "GBO-Calls-Den-MTV",
+      "email": "acadil@humana.com",
+      "primaryContactInfo": [
+        {
+          "address": "acadil@humana.com",
+          "mediaType": "EMAIL",
+          "type": "PRIMARY"
+        },
+        {
+          "display": "1374906",
+          "mediaType": "PHONE",
+          "type": "PRIMARY",
+          "extension": "1374906"
+        }
+      ],
+      "addresses": [
+        {
+          "display": "1374906",
+          "mediaType": "PHONE",
+          "type": "WORK",
+          "extension": "1374906",
+          "countryCode": "US"
+        },
+        {
+          "address": "ACadil@humana.com",
+          "mediaType": "EMAIL",
+          "type": "WORK"
+        }
+      ],
+      "state": "active",
+      "title": "Service Contractor",
+      "username": "acadil@humana.com",
+      "version": 2,
+      "acdAutoAnswer": false,
+      "selfUri": "/api/v2/users/75002e05-9781-4e1d-9bb1-a478cde32e62"
+    },
+    {
+      "id": "b0daf66b-2866-41c1-8dfa-e0e5a7c7ab4b",
+      "name": "ALAN HOLDING",
+      "division": {
+        "id": "018c1823-d14f-4092-ae10-6a88d07680eb",
+        "name": "Humana | Pharmacy",
+        "selfUri": "/api/v2/authorization/divisions/018c1823-d14f-4092-ae10-6a88d07680eb"
+      },
+      "chat": {
+        "jabberId": "653fc97289aa6c1af79f1b66@humana2.orgspan.com"
+      },
+      "email": "aholding@humana.com",
+      "primaryContactInfo": [
+        {
+          "address": "aholding@humana.com",
+          "mediaType": "EMAIL",
+          "type": "PRIMARY"
+        },
+        {
+          "display": "(1453364)",
+          "mediaType": "PHONE",
+          "type": "PRIMARY"
+        }
+      ],
+      "addresses": [
+        {
+          "display": "(1453364)",
+          "mediaType": "PHONE",
+          "type": "WORK",
+          "countryCode": "US"
+        }
+      ],
+      "state": "active",
+      "username": "aholding@humana.com",
+      "version": 2,
+      "acdAutoAnswer": false,
+      "selfUri": "/api/v2/users/b0daf66b-2866-41c1-8dfa-e0e5a7c7ab4b"
+    },
+    {
+      "id": "e09a466d-abcd-4e79-9487-b513c09f2477",
+      "name": "ALEJANDRO ROMERO",
+      "division": {
+        "id": "62920a3e-e76f-4ec7-9eae-ec04e3d64ccf",
+        "name": "HGS | Wellness",
+        "selfUri": "/api/v2/authorization/divisions/62920a3e-e76f-4ec7-9eae-ec04e3d64ccf"
+      },
+      "chat": {
+        "jabberId": "653fc87d70ac7c1a766eabbd@humana2.orgspan.com"
+      },
+      "department": "GBO-Calls-Den-MTV",
+      "email": "aromero26@humana.com",
+      "primaryContactInfo": [
+        {
+          "address": "aromero26@humana.com",
+          "mediaType": "EMAIL",
+          "type": "PRIMARY"
+        },
+        {
+          "display": "1375141",
+          "mediaType": "PHONE",
+          "type": "PRIMARY",
+          "extension": "1375141"
+        }
+      ],
+      "addresses": [
+        {
+          "display": "1375141",
+          "mediaType": "PHONE",
+          "type": "WORK",
+          "extension": "1375141",
+          "countryCode": "US"
+        },
+        {
+          "address": "AROMERO26@humana.com",
+          "mediaType": "EMAIL",
+          "type": "WORK"
+        }
+      ],
+      "state": "active",
+      "title": "Service Contractor",
+      "username": "aromero26@humana.com",
+      "version": 2,
+      "acdAutoAnswer": false,
+      "selfUri": "/api/v2/users/e09a466d-abcd-4e79-9487-b513c09f2477"
+    },
+    {
+      "id": "d0a79a45-765e-4a82-a5e5-ffb542bd0aab",
+      "name": "ALICIA CUNNINGHAM",
+      "division": {
+        "id": "53c20e18-3cfe-489c-81d7-12df940fe0a7",
+        "name": "Conduent | Insurance",
+        "selfUri": "/api/v2/authorization/divisions/53c20e18-3cfe-489c-81d7-12df940fe0a7"
+      },
+      "chat": {
+        "jabberId": "653fc963b175301aebf4e4da@humana2.orgspan.com"
+      },
+      "email": "acunningham18@humana.com",
+      "primaryContactInfo": [
+        {
+          "address": "acunningham18@humana.com",
+          "mediaType": "EMAIL",
+          "type": "PRIMARY"
+        },
+        {
+          "display": "(1457143)",
+          "mediaType": "PHONE",
+          "type": "PRIMARY"
+        }
+      ],
+      "addresses": [
+        {
+          "display": "(1457143)",
+          "mediaType": "PHONE",
+          "type": "WORK",
+          "countryCode": "US"
+        }
+      ],
+      "state": "active",
+      "username": "acunningham18@humana.com",
+      "version": 2,
+      "acdAutoAnswer": false,
+      "selfUri": "/api/v2/users/d0a79a45-765e-4a82-a5e5-ffb542bd0aab"
+    },
+    {
+      "id": "16fea244-6185-4f68-9b78-2b10e907fcdd",
+      "name": "AMERHAN AMPUAN",
+      "division": {
+        "id": "62920a3e-e76f-4ec7-9eae-ec04e3d64ccf",
+        "name": "HGS | Wellness",
+        "selfUri": "/api/v2/authorization/divisions/62920a3e-e76f-4ec7-9eae-ec04e3d64ccf"
+      },
+      "chat": {
+        "jabberId": "653fc7ec48b0641ab530063e@humana2.orgspan.com"
+      },
+      "department": "GBO-Calls-Den-MTV",
+      "email": "aampuan@humana.com",
+      "primaryContactInfo": [
+        {
+          "address": "aampuan@humana.com",
+          "mediaType": "EMAIL",
+          "type": "PRIMARY"
+        },
+        {
+          "display": "1374991",
+          "mediaType": "PHONE",
+          "type": "PRIMARY",
+          "extension": "1374991"
+        }
+      ],
+      "addresses": [
+        {
+          "display": "1374991",
+          "mediaType": "PHONE",
+          "type": "WORK",
+          "extension": "1374991",
+          "countryCode": "US"
+        },
+        {
+          "address": "AAmpuan@humana.com",
+          "mediaType": "EMAIL",
+          "type": "WORK"
+        }
+      ],
+      "state": "active",
+      "title": "Service Contractor",
+      "username": "aampuan@humana.com",
+      "version": 1,
+      "acdAutoAnswer": false,
+      "selfUri": "/api/v2/users/16fea244-6185-4f68-9b78-2b10e907fcdd"
+    },
+    {
+      "id": "17dd4b00-6422-4fbb-bc87-dae4a0ce10df",
+      "name": "ANAGENGHYS GOMEZ",
+      "division": {
+        "id": "ef97cb31-8869-4f45-88af-2cc5b3a384b3",
+        "name": "HGS | Insurance",
+        "selfUri": "/api/v2/authorization/divisions/ef97cb31-8869-4f45-88af-2cc5b3a384b3"
+      },
+      "chat": {
+        "jabberId": "653fc8090fdf4a1ae2bb141a@humana2.orgspan.com"
+      },
+      "department": "GBO-Calls-Den-MTV",
+      "email": "agomez58@humana.com",
+      "primaryContactInfo": [
+        {
+          "address": "agomez58@humana.com",
+          "mediaType": "EMAIL",
+          "type": "PRIMARY"
+        },
+        {
+          "display": "1374929",
+          "mediaType": "PHONE",
+          "type": "PRIMARY",
+          "extension": "1374929"
+        }
+      ],
+      "addresses": [
+        {
+          "display": "1374929",
+          "mediaType": "PHONE",
+          "type": "WORK",
+          "extension": "1374929",
+          "countryCode": "US"
+        },
+        {
+          "address": "AGOMEZ58@humana.com",
+          "mediaType": "EMAIL",
+          "type": "WORK"
+        }
+      ],
+      "state": "active",
+      "title": "Service Contractor",
+      "username": "agomez58@humana.com",
+      "version": 2,
+      "acdAutoAnswer": false,
+      "selfUri": "/api/v2/users/17dd4b00-6422-4fbb-bc87-dae4a0ce10df"
+    },
+    {
+      "id": "b73ffef7-eef0-4ab2-a09b-fb470d0f96b3",
+      "name": "ANGEL MAY ANLAP",
+      "division": {
+        "id": "ef97cb31-8869-4f45-88af-2cc5b3a384b3",
+        "name": "HGS | Insurance",
+        "selfUri": "/api/v2/authorization/divisions/ef97cb31-8869-4f45-88af-2cc5b3a384b3"
+      },
+      "chat": {
+        "jabberId": "653fc731c1b4141ab8a0f6a0@humana2.orgspan.com"
+      },
+      "department": "GBO-Calls-Den-MTV",
+      "email": "aanlap@humana.com",
+      "primaryContactInfo": [
+        {
+          "address": "aanlap@humana.com",
+          "mediaType": "EMAIL",
+          "type": "PRIMARY"
+        },
+        {
+          "display": "1374882",
+          "mediaType": "PHONE",
+          "type": "PRIMARY",
+          "extension": "1374882"
+        }
+      ],
+      "addresses": [
+        {
+          "display": "1374882",
+          "mediaType": "PHONE",
+          "type": "WORK",
+          "extension": "1374882",
+          "countryCode": "US"
+        },
+        {
+          "address": "AAnlap@humana.com",
+          "mediaType": "EMAIL",
+          "type": "WORK"
+        }
+      ],
+      "state": "active",
+      "title": "Service Contractor",
+      "username": "aanlap@humana.com",
+      "version": 1,
+      "acdAutoAnswer": false,
+      "selfUri": "/api/v2/users/b73ffef7-eef0-4ab2-a09b-fb470d0f96b3"
+    },
+    {
+      "id": "3825d658-02c4-4d26-8aee-56654a442df5",
+      "name": "ANGELLY MARTINEZ",
+      "division": {
+        "id": "62920a3e-e76f-4ec7-9eae-ec04e3d64ccf",
+        "name": "HGS | Wellness",
+        "selfUri": "/api/v2/authorization/divisions/62920a3e-e76f-4ec7-9eae-ec04e3d64ccf"
+      },
+      "chat": {
+        "jabberId": "653fc8287836a11a89dfaa83@humana2.orgspan.com"
+      },
+      "department": "GBO-Calls-Den-MTV",
+      "email": "amartinez160@humana.com",
+      "primaryContactInfo": [
+        {
+          "address": "amartinez160@humana.com",
+          "mediaType": "EMAIL",
+          "type": "PRIMARY"
+        },
+        {
+          "display": "1375142",
+          "mediaType": "PHONE",
+          "type": "PRIMARY",
+          "extension": "1375142"
+        }
+      ],
+      "addresses": [
+        {
+          "display": "1375142",
+          "mediaType": "PHONE",
+          "type": "WORK",
+          "extension": "1375142",
+          "countryCode": "US"
+        },
+        {
+          "address": "AMARTINEZ160@humana.com",
+          "mediaType": "EMAIL",
+          "type": "WORK"
+        }
+      ],
+      "state": "active",
+      "title": "Service Contractor",
+      "username": "amartinez160@humana.com",
+      "version": 1,
+      "acdAutoAnswer": false,
+      "selfUri": "/api/v2/users/3825d658-02c4-4d26-8aee-56654a442df5"
+    },
+    {
+      "id": "57f863f3-adea-416a-9798-612c3b09e713",
+      "name": "ARTURO AHUMADA",
+      "division": {
+        "id": "62920a3e-e76f-4ec7-9eae-ec04e3d64ccf",
+        "name": "HGS | Wellness",
+        "selfUri": "/api/v2/authorization/divisions/62920a3e-e76f-4ec7-9eae-ec04e3d64ccf"
+      },
+      "chat": {
+        "jabberId": "653fc8b83ca6491ae1366309@humana2.orgspan.com"
+      },
+      "department": "GBO-Calls-Den-MTV",
+      "email": "aahumada1@humana.com",
+      "primaryContactInfo": [
+        {
+          "address": "aahumada1@humana.com",
+          "mediaType": "EMAIL",
+          "type": "PRIMARY"
+        },
+        {
+          "display": "1375143",
+          "mediaType": "PHONE",
+          "type": "PRIMARY",
+          "extension": "1375143"
+        }
+      ],
+      "addresses": [
+        {
+          "display": "1375143",
+          "mediaType": "PHONE",
+          "type": "WORK",
+          "extension": "1375143",
+          "countryCode": "US"
+        },
+        {
+          "address": "AAHUMADA1@humana.com",
+          "mediaType": "EMAIL",
+          "type": "WORK"
+        }
+      ],
+      "state": "active",
+      "title": "Service Contractor",
+      "username": "aahumada1@humana.com",
+      "version": 1,
+      "acdAutoAnswer": false,
+      "selfUri": "/api/v2/users/57f863f3-adea-416a-9798-612c3b09e713"
+    },
+    {
+      "id": "f23987e4-0911-4fe9-8ca6-aeecd041f4ab",
+      "name": "AUSTIN CYRUS RODRIGUEZ",
+      "division": {
+        "id": "ef97cb31-8869-4f45-88af-2cc5b3a384b3",
+        "name": "HGS | Insurance",
+        "selfUri": "/api/v2/authorization/divisions/ef97cb31-8869-4f45-88af-2cc5b3a384b3"
+      },
+      "chat": {
+        "jabberId": "653fc740706c7c1aec13f438@humana2.orgspan.com"
+      },
+      "department": "GBO-Calls-Den-MTV",
+      "email": "arodriguez223@humana.com",
+      "primaryContactInfo": [
+        {
+          "address": "arodriguez223@humana.com",
+          "mediaType": "EMAIL",
+          "type": "PRIMARY"
+        },
+        {
+          "display": "1374898",
+          "mediaType": "PHONE",
+          "type": "PRIMARY",
+          "extension": "1374898"
+        }
+      ],
+      "addresses": [
+        {
+          "display": "1374898",
+          "mediaType": "PHONE",
+          "type": "WORK",
+          "extension": "1374898",
+          "countryCode": "US"
+        },
+        {
+          "address": "ARodriguez223@humana.com",
+          "mediaType": "EMAIL",
+          "type": "WORK"
+        }
+      ],
+      "state": "active",
+      "title": "Service Contractor",
+      "username": "arodriguez223@humana.com",
+      "version": 1,
+      "acdAutoAnswer": false,
+      "selfUri": "/api/v2/users/f23987e4-0911-4fe9-8ca6-aeecd041f4ab"
+    }
+  ],
+  "pageSize": 10,
+  "pageNumber": 1,
+  "total": 1467,
+  "lastUri": "/api/v2/users?pageSize=10&pageNumber=147&sortOrder=ascending&state=active",
+  "firstUri": "/api/v2/users?pageSize=10&pageNumber=1&sortOrder=ascending&state=active",
+  "selfUri": "/api/v2/users?pageSize=10&pageNumber=1&sortOrder=ascending&state=active",
+  "nextUri": "/api/v2/users?pageSize=10&pageNumber=2&sortOrder=ascending&state=active",
+  "pageCount": 147
+}
