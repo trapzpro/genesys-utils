@@ -41,6 +41,7 @@ class GenesysExtensionReport extends Command
         ]);
 
         if ($response->failed()) {
+
             $this->error('Failed to authenticate with Genesys Cloud API');
             exit(1);
         }
