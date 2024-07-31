@@ -16,3 +16,5 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+genesys_extensions_new.csv
+genesys_extensions_orig.csv
