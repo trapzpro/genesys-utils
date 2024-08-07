@@ -41,5 +41,10 @@ return [
         'client_secret' => env('GENESYS_CLIENT_SECRET'),
         'base_url' => env('GENESYS_BASE_URL'),
     ],
+    'e911' => [
+        'base_url' => env('E911_API_BASE_URL', 'https://api.e911cloud.com'),
+        'username' => env('E911_API_USERNAME'),
+        'password' => env('E911_API_PASSWORD'),
+    ],
 
 ];
